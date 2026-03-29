@@ -22,6 +22,11 @@ Typical dataset components include:
 Target variable:
 - Transaction prediction outcome
 
+Due to size limitations, the dataset is not included in this repository.
+
+You can download it from:
+https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1003-CustTransPred.zip
+
 ## ⚙️ Tech Stack
 - Python
 - Pandas
